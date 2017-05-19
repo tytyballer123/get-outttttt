@@ -35,3 +35,8 @@ p{
     75%  {color:green;}
     100% {color:red; font-size:40px;}
 }
+
+
+body {
+	background-image: url("dd.jpg");
+}
